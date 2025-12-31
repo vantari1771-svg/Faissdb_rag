@@ -1,0 +1,22 @@
+# Core app
+streamlit
+python-dotenv
+
+# LangChain core + community
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-groq
+
+# Embeddings
+sentence-transformers
+
+# Vector DB (Chroma backend)
+chromadb
+
+# PDF loading (UnstructuredPDFLoader)
+unstructured
+pypdf
